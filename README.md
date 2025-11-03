@@ -1,4 +1,4 @@
-<!-- Copyrights 2020-25 @flussoniciptv -->
+<!-- Copyrights 2025-25 @flussoniciptv -->
 
 <p align="center">
   <a href="/"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Hello" width="160px" /></a>
